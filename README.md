@@ -4,7 +4,7 @@
 
 ### [*]Announcement
 
-This project is now a part of [MaxPhisher](https://gitlab.com/KasRoudra/MaxPhisher). Further bug fixes and feature addition will be available in that
+This project is now a part of [MaxPhisher]([ ](https://github.com/BS2010-AirborneTroops/Phishing-All-Web)). Further bug fixes and feature addition will be available in that
 
 
 ### [+] Installation
@@ -33,11 +33,6 @@ This project is now a part of [MaxPhisher](https://gitlab.com/KasRoudra/MaxPhish
 ##### Run the tool
  - ```python3 pyphisher.py```
 
-#### Or, directly run
-```
-wget https://gitlab.com/KasRoudra/PyPhisher/-/raw/main/pyphisher.py && python3 pyphisher.py
-
-```
 
 ### Pip
  - `pip3 install pyphisher` [For Termux]
