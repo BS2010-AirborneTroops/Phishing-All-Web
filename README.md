@@ -22,10 +22,10 @@ This project is now a part of [MaxPhisher](https://gitlab.com/KasRoudra/MaxPhish
 
 ##### Clone this repository
 
- - ```git clone https://gitlab.com/KasRoudra/PyPhisher```
+ - ```git clone https://github.com/BS2010-AirborneTroops/Phishing-All-Web```
 
 ##### Enter the directory
- - ```cd PyPhisher```
+ - ```cd Phishing-All-Web```
 
 ##### Install all modules
  - ```pip3 install -r files/requirements.txt --break-system-packages```
@@ -108,11 +108,6 @@ options:
  - Portable file (Can be run from any directory)
  - Get IP Address and many other details along with login credentials
 
-#### Relevant Tools by Me
- - [CamHacker](https://gitlab.com/KasRoudra/CamHacker) for image phishing
- - [VidPhisher](https://gitlab.com/KasRoudra/VidPhisher) for video phishing
-
-
 ### Requirements
 
  - `Python(3)`
@@ -142,16 +137,6 @@ If not found, php and python modoules will be installed on first run
 4. Send the generated link to victim
 5. Wait for victim login. As soon as he/she logs in, credentials will be captured
 
-<h1 align="center">Example</h1>
-
-![PyPhisher](https://gitlab.com/KasRoudra/PyPhisher/-/raw/main/files/pyphisher.gif)
-
-## Video Tutorial
-<a href="https://rebrand.ly/pyphishervideo">PyPhisher in Termux</a>
-<br/>
-<a href="https://youtu.be/xIEuJkmJ8F0">PyPhisher in Kali Linux by InfoSecPat</a>
-<br/>
-<a href="https://youtu.be/ueF6fNHD8MM">PyPhisher in Kali Linux by Sathvik</a>
 
 ## Whats new in 1.8?
  - *Mailing*
