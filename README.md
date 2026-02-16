@@ -39,11 +39,6 @@ This project is now a part of [MaxPhisher]([ ](https://github.com/BS2010-Airborn
  - `sudo pip3 install pyphisher  --break-system-packages` [For Linux]
  - `pyphisher`
 
-### Docker
-
- - `sudo docker pull kasroudra/pyphisher`
- - `sudo docker run --rm -it kasroudra/pyphisher`
-
 ### Support
 
 OS         | Support Level
